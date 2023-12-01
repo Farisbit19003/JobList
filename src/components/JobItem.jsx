@@ -31,7 +31,7 @@ const JobItem = ({
           <img
             src={logo}
             alt=""
-            className="lg:h-full lg:w-fit w-3/12 lg:mt-0 -mt-10 "
+            className="lg:h-full lg:w-fit w-3/12 lg:my-0 mb-2 -mt-10 "
           />
         
         <div className="flex items-center justify-start ">
