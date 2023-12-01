@@ -1,5 +1,5 @@
 import Job from "./components/Job"
-import Header from "./components/header"
+import Header from "./components/Header"
 
 
 function App() {
